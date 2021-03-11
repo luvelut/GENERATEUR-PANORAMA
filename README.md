@@ -19,6 +19,10 @@ Ce projet est réalisé grâce au Framework A-Frame qui permet de créer du cont
 * Il va ensuite éditer sa carte (plan d'ensemble avec des points de navigation)
 * Son panorama et téléchargeable et prêt à être visionné !
 
+## A QUOI CA RESSEMBLE ?
+
+![image demo](https://github.com/luvelut/GENERATEUR-PANORAMA/blob/main/accueil.JPG) 
+
 
 ## CONTRAINTES
 
